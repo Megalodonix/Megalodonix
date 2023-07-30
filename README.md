@@ -1,0 +1,4 @@
+- Just a rando interested in computers
+- I’m interested in GNU/Linux
+- I’m currently learning Python and JS
+- I’m looking to collaborate on anything that's simple enough... for now.
